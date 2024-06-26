@@ -9,3 +9,8 @@
 * ##### GitHub: [Pa4ik](https://github.com/Pa4ik "https://github.com/Pa4ik")
 ### About Me 
  I am 26 years old . I'm a working and aspiring streamer and I'm taking the course for the second time, the first attempt didn't work . And I decided to change my life and profession.
+### Skills and Proficiency
+* JavaScript (Basic)
+* HTML5 (Basic)
+* CSS3 (Basic)
+* Git (Basic)
