@@ -29,6 +29,10 @@
 </body>
 </html>
 ```
+### Project 
+* Coffee shop website
+![image](https://github.com/Pa4ik/rsschool-cv/assets/55180942/97beafd8-1830-4883-90d2-df4992024359)
+[link](https://pa4ik.github.io/coffee-house/coffee-house/home.html)
 ### Experience
 * Mechanical-Technician
 ### Education
