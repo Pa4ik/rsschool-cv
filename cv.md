@@ -31,3 +31,10 @@
 ```
 ### Experience
 * Mechanical-Technician
+### Education
+* СГК
+* rs.school JS/FE ( In progress)
+# English
+* A1-A2
+
+###### 2024
