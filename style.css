@@ -1,5 +1,9 @@
 /* font-family: Inter, sans-serif; */
 
+html{
+    scroll-behavior: smooth;
+}
+
 /* Body */
 .body{
     margin:auto;
@@ -177,6 +181,29 @@ main skills */
 /* main education */
 
 .education{
+    display: grid;
+    justify-items: center;
+}
+
+/* main project */
+
+.projects{
+    display: grid;
+    justify-items: center;
+    gap: 50px;
+}
+
+.img__project{
+    width: 100%;
+}
+
+.projects__list{
+    display: grid;
+    justify-items: center;
+    max-width: 650px;
+}
+
+.projects_grid{
     display: grid;
     justify-items: center;
 }
