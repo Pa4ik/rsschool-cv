@@ -4,7 +4,7 @@
 .body{
     margin:auto;
     max-width: 1280px;
-    background-color: blueviolet;
+    background-color: #8bc0b3;
 }
 
 .line{
@@ -16,7 +16,7 @@
 /* header */
 
 .header {
-  background-color: #a020b9;
+  background-color: #b4d1b9;
   max-width: 1280px;
   display: grid;
   align-items: center;
@@ -33,7 +33,7 @@
 .list__item {
     text-decoration: none;
     font-family: Inter, sans-serif;
-    color: #fff;
+    color: #000;
     font-size: 20px;
     background-image: linear-gradient(currentColor, currentColor);
     background-position: 0% 100%;
@@ -50,19 +50,19 @@
 
 /* main */
   .h2{
-    color: #fff;
+    color: #000;
     font-size: 2rem;
     font-family: Inter, sans-serif;
   }
 
   .text{
-    color: #fff;
+    color: #000;
     font-size: 20px;
     font-family: Inter, sans-serif;
   }
 /* main portrait */
 .main{
-    background-color: #a020b9;
+    background-color: #b4d1b9;
     max-width: 1280px;
 }
 
@@ -78,7 +78,7 @@
 }
 
 .h1{
-    color: #fff;
+    color: #000;
     font-size: 3rem;
     font-family: Inter, sans-serif;
 }
@@ -92,4 +92,49 @@
 
 .aboutme__text{
     width: 80%;
+}
+
+/* main contact */
+
+.contact{
+    display: grid;
+    justify-items: center;
+}
+
+.contact__conteiner{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact__list{
+    list-style: none;
+    text-decoration: none;
+}
+
+.icon{
+    width: 25px;
+}
+
+.contact__item{
+    font-size: 16px;
+    font-family: Inter, sans-serif;
+    color: #000;
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .4s; 
+    transition: 1s; 
+}
+
+.contact__item:hover{
+    color: #9ea1a4;
+    background-size: 100% 2px; 
+}
+
+.contact_li{
+    display: flex;
+    align-items: center;
+    padding: 5px;
 }
