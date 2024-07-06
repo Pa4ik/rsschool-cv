@@ -138,3 +138,16 @@
     align-items: center;
     padding: 5px;
 }
+/* 
+main skills */
+
+.skills{
+    display: grid;
+    justify-items: center;
+}
+
+.skills__item{
+    font-size: 16px;
+    font-family: Inter, sans-serif;
+    color: #000;
+}
