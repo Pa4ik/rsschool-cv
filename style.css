@@ -151,3 +151,18 @@ main skills */
     font-family: Inter, sans-serif;
     color: #000;
 }
+
+/* main social */
+
+.social{
+    display: grid;
+    justify-items: center;
+}
+
+.social__list{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    gap: 70px;
+    flex-wrap: wrap;
+}
