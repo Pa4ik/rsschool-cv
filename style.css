@@ -166,3 +166,29 @@ main skills */
     gap: 70px;
     flex-wrap: wrap;
 }
+
+/* main social */
+
+.languages{
+    display: grid;
+    justify-items: center;
+}
+
+/* main education */
+
+.education{
+    display: grid;
+    justify-items: center;
+}
+
+/* main code */
+
+.code{
+    display: grid;
+    justify-items: center;
+}
+
+.pre{
+    border: 2px solid #030303;
+}
+
